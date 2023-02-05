@@ -11,5 +11,3 @@ circle.circleCircumference(5)
 
 // console.log(`Daire alanı: ${circleArea(5)}`);
 // console.log(`Daire Çevresi: ${circleCircumference(5)}`);
-
-// test test

@@ -13,9 +13,6 @@ module.exports = {
     circleCircumference
 }
 
-// tes test
-
-
 // object destructing
 // const circleArea = r => {
 //     return Math.PI *r* r;
