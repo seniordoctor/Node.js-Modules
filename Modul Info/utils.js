@@ -1,3 +1,5 @@
+// Information
+
 // 1.Kullanım
 // function hello () {
 //     return 'Hello World!';
@@ -16,4 +18,3 @@
 
 //export function hello() şeklinde export edersek;
 // import işlemini --> import {hello} from "./utils.js"; şeklinde import et
-

@@ -1,3 +1,5 @@
+// Information
+
 // 1. Kullanım
 // import hello from "./utils.js";
 
